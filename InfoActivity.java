@@ -1,10 +1,10 @@
-package com.example.geren;
+﻿package com.example.geren;
 /**
  * 
  * @author syn
  *
  */
-
+//0923
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
