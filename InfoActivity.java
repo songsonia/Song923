@@ -6,6 +6,7 @@
  */
 //0923
 //okok
+//fitBug001
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
